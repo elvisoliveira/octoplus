@@ -4,4 +4,6 @@
 # But not these files...
 !.gitignore
 !hello.py
+!model.py
+!controller.py
 !README.md
